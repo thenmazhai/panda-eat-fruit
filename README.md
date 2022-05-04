@@ -1,1 +1,1 @@
-# panda-eat-fruit
+# Tablet-SPCK-PRO-C35-Project-Solution
